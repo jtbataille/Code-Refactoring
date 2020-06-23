@@ -54,6 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -66,9 +67,9 @@ main {
     margin-left: 20px;
 }
 
-/* changed this div to an article to mitigate repetition; kept "main" to make sure it's easy to find */
+/* changed this div to a section to mitigate repetition; kept "main" to make sure it's easy to find */
 
-main article {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
